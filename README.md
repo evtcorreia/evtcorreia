@@ -2,18 +2,18 @@
 
 
 
-Meu nome é Everton Correia.(BR).
+Meu nome é Everton Correia.
 
 Sou estudante de sistemas de informação na Universidade de Uberaba, sou proprietário de uma escola de cursos de informática desde 2015.(BR)
 
-Em meu tempo livre gosto de (BR)
+Em meu tempo livre gosto de :
 
-Ouvir musica(🎵) (BR)
-Ler  livros (📚) (BR)
-Assistir Filmes (📺)(BR)
-Jogar (💻)(BR)
-Jogar RPG (🎲)(BR)
-beber uma cerveja(🍺)(BR)
+Ouvir musica(🎵) 
+Ler  livros (📚) 
+Assistir Filmes (📺)
+Jogar (💻)
+Jogar RPG (🎲)
+beber uma cerveja(🍺)
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/evtcorreia)
