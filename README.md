@@ -4,7 +4,8 @@
 
 Meu nome é Everton Correia.
 
-Sou estudante de sistemas de informação na Universidade de Uberaba, sou proprietário de uma escola de cursos de informática desde 2015.(BR)
+Sou estudante de sistemas de informação na Universidade de Uberaba, 
+sou proprietário de uma escola de cursos de informática desde 2015.
 
 Em meu tempo livre gosto de :
 
