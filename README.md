@@ -4,8 +4,8 @@
 
 Meu nome é Everton Correia.
 
-Sou estudante de sistemas de informação na Universidade de Uberaba, 
-sou proprietário de uma escola de cursos de informática desde 2015.
+Atualmente estou cursando sistemas de informação. 
+Sou proprietário de uma escola de cursos de informática desde 2015.
 
 Em meu tempo livre gosto de :
 
@@ -14,7 +14,7 @@ Ler  livros (📚)
 Assistir Filmes (📺)
 Jogar (💻)
 Jogar RPG (🎲)
-beber uma cerveja(🍺)
+
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/evtcorreia)
