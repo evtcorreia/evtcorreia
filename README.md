@@ -9,11 +9,11 @@ Sou proprietário de uma escola de cursos de informática desde 2015.
 
 Em meu tempo livre gosto de :
 
-Ouvir musica(🎵) 
-Ler  livros (📚) 
-Assistir Filmes (📺)
-Jogar (💻)
-Jogar RPG (🎲)
+Ouvir musica(🎵) </br></br></br>
+Ler  livros (📚) </br></br>
+Assistir Filmes (📺) </br>
+Jogar (💻) </br>
+Jogar RPG (🎲) </br>
 
 
 
