@@ -9,8 +9,8 @@ Sou proprietário de uma escola de cursos de informática desde 2015.
 
 Em meu tempo livre gosto de :
 
-Ouvir musica(🎵) </br></br></br>
-Ler  livros (📚) </br></br>
+Ouvir musica(🎵) </br>
+Ler  livros (📚) </br>
 Assistir Filmes (📺) </br>
 Jogar (💻) </br>
 Jogar RPG (🎲) </br>
