@@ -13,7 +13,7 @@ Ouvir musica(🎵) </br>
 Ler  livros (📚) </br>
 Assistir Filmes (📺) </br>
 Jogar (💻) </br>
-Jogar RPG (🎲) </br>
+Pedalar (🚲) </br>
 
 
 
