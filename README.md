@@ -4,10 +4,10 @@
 
 Meu nome é Everton Correia.
 
-Atualmente estou cursando sistemas de informação. </br>
-Sou proprietário de uma escola de cursos de informática desde 2015.
+Analista de Sistemas </br>
 
-Em meu tempo livre gosto de :
+
+Hobbies :
 
 Ouvir musica(🎵) </br>
 Ler  livros (📚) </br>
