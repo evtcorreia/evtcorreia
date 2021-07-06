@@ -4,7 +4,7 @@
 
 Meu nome é Everton Correia.
 
-Graduado em Sistemas de Informção </br>
+Graduado em Sistemas de Informação </br>
 
 
 Hobbies :
