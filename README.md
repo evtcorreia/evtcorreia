@@ -4,7 +4,7 @@
 
 Meu nome é Everton Correia.
 
-Analista de Sistemas </br>
+Graduado em Sistemas de Informção </br>
 
 
 Hobbies :
