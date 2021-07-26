@@ -4,9 +4,9 @@
 
 Meu nome é Everton Correia.
 
-Formado em Sistemas de informação
+▶ Formado em Sistemas de informação
 <br>
-Aluno Alura
+▶ Aluno Alura
 
 
 Contato
