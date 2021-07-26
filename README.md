@@ -22,11 +22,11 @@ Tecnologias conhecidas
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <a href="https://cursos.alura.com.br/certificate/20e061db-22bf-4d8c-8d82-c53b0b5a3804" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>   
   
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://cursos.alura.com.br/certificate/20e061db-22bf-4d8c-8d82-c53b0b5a3804" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
   
@@ -49,14 +49,26 @@ Tecnologias conhecidas
   <a href="https://cursos.alura.com.br/certificate/28b962d6-db70-417f-8017-31c9dc7a130c" target="_blank"> 
     <img   src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-plain.svg" alt="doctrine" width="40" height="40"/> 
   </a> 
+  
+  <a href="#" target="_blank"> 
+    <img   src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
 
   
 <br>
   
   Aprendendo
   
-  <a href="https://cursos.alura.com.br/certificate/28b962d6-db70-417f-8017-31c9dc7a130c" target="_blank"> 
-    <img   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="doctrine" width="40" height="40"/> 
+  <a href="#" target="_blank"> 
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  
+    <a href="#" target="_blank"> 
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
+  </a> 
+  
+    <a href="#" target="_blank"> 
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node-js" width="40" height="40"/> 
   </a> 
   
 
