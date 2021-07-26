@@ -42,7 +42,7 @@ Tecnologias conhecidas
     <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/> 
   </a>   
    
-  <a href="https://cursos.alura.com.br/certificate/cfd70259-eadd-4383-9b4e-e99d9a1ade78" target="_blank"> 
+  <a href="https://cursos.alura.com.br/certificate/7f9cdb06-c7d7-41b7-93fa-585fb8412338" target="_blank"> 
     <img   src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
   </a> 
   
