@@ -53,6 +53,10 @@ Tecnologias conhecidas
   <a href="#" target="_blank"> 
     <img   src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
   </a> 
+  
+  <a href="https://www.udemy.com/certificate/UC-6668NTGF/" target="_blank"> 
+    <img   src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
 
   
 <br>
