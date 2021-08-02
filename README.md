@@ -8,18 +8,15 @@ Meu nome é Everton Correia.
 <br>
 ▶ Aluno Alura
 
+##
 
 <div>
   <a href="https://github.com/evtcorreia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evtcorreia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evtcorreia&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-
-Contato
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/evtcorreia)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/evtcorreia/)
+  
+##
 
 Tecnologias conhecidas
 
@@ -81,6 +78,15 @@ Tecnologias conhecidas
   <a href="#" target="_blank"> 
     <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node-js" width="40" height="40"/> 
   </a> 
+
+##
+  
+Contato
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/evtcorreia)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/evtcorreia/)
+  
+
   
 
 
