@@ -9,6 +9,13 @@ Meu nome é Everton Correia.
 ▶ Aluno Alura
 
 
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evtcorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evtcorreia&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 Contato
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/evtcorreia)
