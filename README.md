@@ -82,9 +82,7 @@ Tecnologias conhecidas
     <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node-js" width="40" height="40"/> 
   </a> 
   
-  
-  
-    <a href="#" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node-js" width="40" height="40"/> 
   </a> 
 
