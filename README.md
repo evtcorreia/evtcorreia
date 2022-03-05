@@ -8,7 +8,7 @@ Meu nome é Everton Correia.
 <br>
 ▶ Pós-Graduando em Engenharia de Software
 <br>
-▶ Aluno Alura
+
 
 ##
 
