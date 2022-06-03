@@ -2,7 +2,7 @@
 
 
 
-Meu nome é Everton Correia.
+Eu sou Everton Correia.
 
 ▶ Formado em Sistemas de informação
 <br>
