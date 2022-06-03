@@ -15,7 +15,8 @@ const evtcorreia = {
             HTML, 
             CSS, 
             PHP, 
-            C#
+            C#,
+            ADVPL
        },
   tools: {
             React, 
@@ -40,6 +41,7 @@ const evtcorreia = {
 ![nextJS](https://img.shields.io/badge/-next-white?style=for-the-badge&logo=next&logoColor=61DAFB)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/-laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
+![ADVPL](https://img.shields.io/badge/-ADVPL-1E4C68?style=for-the-badge&logo=advpl&logoColor=white)
 
 ### Back-end
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
