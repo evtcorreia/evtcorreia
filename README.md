@@ -68,7 +68,9 @@ const evtcorreia = {
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evtcorreia)](https://www.linkedin.com/in/evtcorreia/)    
   
     
-     
+
+  <p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/joaolima16/count.svg" /></p> 
 
   
   
