@@ -1,8 +1,32 @@
-### Olá! 😁
+### Olá Bem vindo! 😁
 
 
 
 Eu sou Everton Correia.
+
+
+
+```javascript
+const evtcorreia = {
+  code: {
+            Javascript, 
+            HTML, 
+            CSS, 
+            PHP, 
+            C#
+       },
+  tools: {
+            React, 
+            Node, 
+            Styled-Components, 
+            Next, 
+            Docker, 
+            Laravel
+        },
+ 
+
+}
+```
 
 ▶ Formado em Sistemas de informação
 <br>
