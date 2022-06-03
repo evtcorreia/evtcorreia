@@ -11,6 +11,8 @@ Eu sou Everton Correia.
 
 
 
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-1E4C68?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### Back-end
