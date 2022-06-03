@@ -16,7 +16,6 @@ Meu nome é Everton Correia.
 ### Back-end
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Front-end
@@ -24,6 +23,7 @@ Meu nome é Everton Correia.
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NextJS](https://img.shields.io/badge/-laravel-orange?style=for-the-badge)
 
 ![evtcorreia-contributions](https://activity-graph.herokuapp.com/graph?username=evtcorreia&theme=react-dark)
 <div align="center">
