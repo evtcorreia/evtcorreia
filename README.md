@@ -46,7 +46,7 @@ Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/evtcorreia/)
     
      <div align="center">
-       <p align="center"><b>Visitors Count</b></p>  
+       <pVisitors Count</p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/evtcorreia/count.svg" /></p> 
       </div>
 
