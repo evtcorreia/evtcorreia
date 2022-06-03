@@ -1,9 +1,11 @@
 ### Olá Bem vindo! 😁
 
+Eu sou Everton.
 
 
-Eu sou Everton Correia.
-
+▶ Analista de Sistemas pela Universidade de Uberaba - UNIUBE
+<br>
+▶ Pós-Graduando em Engenharia de Software pela PUC-Minas
 
 
 ```javascript
@@ -28,9 +30,7 @@ const evtcorreia = {
 }
 ```
 
-▶ Formado em Sistemas de informação
-<br>
-▶ Pós-Graduando em Engenharia de Software
+
 <br>
 
 
