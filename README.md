@@ -5,7 +5,7 @@ Eu sou Everton.
 
 ▶ Analista de Sistemas pela Universidade de Uberaba - UNIUBE
 <br>
-▶ Pós-Graduando em Engenharia de Software pela PUC-Minas
+▶ Pós-Graduado em Engenharia de Software pela PUC-Minas
 
 
 ```javascript
