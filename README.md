@@ -1,4 +1,4 @@
-### Olá Bem vindo! 😁
+
 
 
 ▶ Analista de Sistemas pela Universidade de Uberaba - UNIUBE
