@@ -1,7 +1,5 @@
 ### Olá Bem vindo! 😁
 
-Eu sou Everton.
-
 
 ▶ Analista de Sistemas pela Universidade de Uberaba - UNIUBE
 <br>
