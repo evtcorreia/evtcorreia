@@ -1,33 +1,21 @@
 
 
 
-▶ Analista de Sistemas pela Universidade de Uberaba - UNIUBE
+👨‍💻 Engenheiro de Software
 <br>
-▶ Pós-Graduado em Engenharia de Software pela PUC-Minas
+🔧 Transformando ideias em código
+<br>
+🎓 Formado em Sistemas de Informação
+<br>
+🎓 Pós em Eng. de Software e Gov. de TI
+<br>
 
+💻 Linguagens de Programação: JavaScript, HTML, CSS, PHP, C#, ADVPL
+<br>
+🛠️ Ferramentas e Tecnologias: React, Node.js, Styled-Components, Next.js, Docker, Laravel
+<br>
 
-```javascript
-const evtcorreia = {
-  code: {
-            Javascript, 
-            HTML, 
-            CSS, 
-            PHP, 
-            C#,
-            ADVPL
-       },
-  tools: {
-            React, 
-            Node, 
-            Styled-Components, 
-            Next, 
-            Docker, 
-            Laravel
-        },
- 
-
-}
-```
+🚀 Desenvolvendo soluções com Node.js, React, Next.js e Docker
 
 
 <br>
