@@ -9,7 +9,6 @@
 <br>
 🎓 Pós em Eng. de Software e Gov. de TI
 <br>
-<br>
 🎓 Licenciatura em Computação
 <br>
 
