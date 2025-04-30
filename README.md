@@ -9,6 +9,9 @@
 <br>
 🎓 Pós em Eng. de Software e Gov. de TI
 <br>
+<br>
+🎓 Licenciatura em Computação
+<br>
 
 💻 Linguagens de Programação: JavaScript, HTML, CSS, PHP, C#, ADVPL
 <br>
