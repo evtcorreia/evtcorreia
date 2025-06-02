@@ -1,73 +1,66 @@
+<h1 align="center">Olá, eu sou o Everton Correia! 👋</h1>
 
+<p align="center">
+  👨‍💻 Engenheiro de Software | 💡 Transformando ideias em soluções reais<br>
+  🎓 Formado em Sistemas de Informação | Pós em Engenharia de Software e Governança de TI<br>
+  🎓 Licenciando em Computação
+</p>
 
+---
 
-👨‍💻 Engenheiro de Software
-<br>
-🔧 Transformando ideias em código
-<br>
-🎓 Formado em Sistemas de Informação
-<br>
-🎓 Pós em Eng. de Software e Gov. de TI
-<br>
-🎓 Licenciatura em Computação
-<br>
+### 🚀 Sobre mim
 
-💻 Linguagens de Programação: JavaScript, HTML, CSS, PHP, C#, ADVPL
-<br>
-🛠️ Ferramentas e Tecnologias: React, Node.js, Styled-Components, Next.js, Docker, Laravel
-<br>
+Sou **Everton Correia**, desenvolvedor com sólida formação acadêmica e uma paixão real por transformar **ideias em soluções tecnológicas eficientes**.
 
-🚀 Desenvolvendo soluções com Node.js, React, Next.js e Docker
+Com graduação em **Sistemas de Informação**, pós-graduação em **Engenharia de Software** e **Governança de TI**, além de cursar **Licenciatura em Computação**, minha formação me permite atuar com profundidade tanto no planejamento quanto na execução de sistemas robustos e escaláveis.
 
+Atuo há anos na área de tecnologia, com foco em desenvolvimento **full stack**, especialmente com **Node.js, React, Next.js e Docker**. Tenho experiência em projetos web, ERP, APIs REST e soluções personalizadas para empresas de diversos segmentos.
 
-<br>
+Sou movido por desafios e acredito que **a tecnologia é uma ponte entre problemas e soluções reais**. Estou sempre buscando aprender novas ferramentas, melhorar meus processos e colaborar com equipes para criar software de alto impacto.
 
-### Front-end
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![nextJS](https://img.shields.io/badge/-next-white?style=for-the-badge&logo=next&logoColor=61DAFB)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/-laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
-![ADVPL](https://img.shields.io/badge/-ADVPL-1E4C68?style=for-the-badge&logo=advpl&logoColor=white)
+---
 
-### Back-end
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 💻 Principais Tecnologias
 
-### SGBDs
-![MySQL](https://img.shields.io/badge/-MySQL-1E4C68?style=for-the-badge&logo=mysql&logoColor=white)
+#### 🧠 Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ADVPL](https://img.shields.io/badge/-ADVPL-1E4C68?style=for-the-badge)
 
+#### ⚙️ Frameworks e Ferramentas
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+#### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
 
-
-
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/evtcorreia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evtcorreia&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evtcorreia&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
+---
 
-  
-<br>
-  
-    
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/evtcorreia)    
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evtcorreia)](https://www.linkedin.com/in/evtcorreia/)    
-  
-    
+### 🌐 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evtcorreia/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/evtcorreia)
+[![Portfólio](https://img.shields.io/badge/-GitHub_Portfólio-000?style=flat-square&logo=github&logoColor=white)](https://github.com/evtcorreia)
+
+---
+
 <div align="center">
-  <p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/evtcorreia/count.svg" /></p> 
-  </div>
-
-  
-  
-
-  
-
-
+  <p><b>Visitantes:</b></p>
+  <img src="https://profile-counter.glitch.me/evtcorreia/count.svg" />
+</div>
