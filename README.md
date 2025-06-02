@@ -54,9 +54,8 @@ Sou movido por desafios e acredito que **a tecnologia é uma ponte entre problem
 
 ### 🌐 Vamos nos conectar?
 
+[![Site Pessoal](https://img.shields.io/badge/-Meu%20Site-000?style=flat-square&logo=firefox&logoColor=white)](http://evtcorreia.dev.br/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evtcorreia/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/evtcorreia)
-[![Portfólio](https://img.shields.io/badge/-GitHub_Portfólio-000?style=flat-square&logo=github&logoColor=white)](https://github.com/evtcorreia)
 
 ---
 
